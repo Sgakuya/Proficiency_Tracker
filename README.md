@@ -1,18 +1,18 @@
 ![workflow status](https://github.com/csci0312-f22/project-kakapo/actions/workflows/node.js.yml/badge.svg)
 
-# __BRIEF DESCRIPTION__
+# __Brief Description__
 A proficiency tracker for use in a classroom setting, by both students and professors.
 
-# __DEPLOYED VERSION LINK__:
+# __Deployed Version Link__:
 > [(https://project-kakapo.web.app)]
 
-# __AUTHOR__
+# __Author__
 Smith Gakuya
 
-# __COLLABORATORS__
+# __Collaborators__
 Evey Kriter, Danzan Achit-Erdene, Nellie Zhang, Kent Canonigo, Blair Jia, Julia Fairbank
 
-# __USAGE__
+# __Usage__
 ## ***Deployed Version (Less Features)***:
 
 1. Click the login button and create a new account if you are a new user or use your former credential if returning.
@@ -25,7 +25,7 @@ Evey Kriter, Danzan Achit-Erdene, Nellie Zhang, Kent Canonigo, Blair Jia, Julia 
 1. Routing to pages from the search bar takes you to an empty quiz page
 2. Instructor view when logging in doesn't route to the correct page
 
-##***Local Version (More Features)***:
+## ***Local Version (More Features)***:
 After opening directory with files install dependencies by running
 > npm install
 
