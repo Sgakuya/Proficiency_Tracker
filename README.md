@@ -1,19 +1,19 @@
 ![workflow status](https://github.com/csci0312-f22/project-kakapo/actions/workflows/node.js.yml/badge.svg)
 
-#__BRIEF DESCRIPTION__
+# __BRIEF DESCRIPTION__
 A proficiency tracker for use in a classroom setting, by both students and professors.
 
-#__DEPLOYED VERSION LINK__:
+# __DEPLOYED VERSION LINK__:
 > [(https://project-kakapo.web.app)]
 
-#__AUTHOR__
+# __AUTHOR__
 Smith Gakuya
 
-#__COLLABORATORS__
+# __COLLABORATORS__
 Evey Kriter, Danzan Achit-Erdene, Nellie Zhang, Kent Canonigo, Blair Jia, Julia Fairbank
 
-#__USAGE__
-##***Deployed Version (Less Features)***:
+# __USAGE__
+## ***Deployed Version (Less Features)***:
 
 1. Click the login button and create a new account if you are a new user or use your former credential if returning.
 2. Select the learning goals (1-4) you would wish to be tested on and begin the quiz. Topics range from Pokemon to animals.
