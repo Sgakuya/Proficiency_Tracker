@@ -1,7 +1,7 @@
 ![workflow status](https://github.com/csci0312-f22/project-kakapo/actions/workflows/node.js.yml/badge.svg)
 
 # __Brief Description__
-A proficiency tracker for use in a classroom setting, by both students and professors.
+A student progress tracker for use in an Ungraded classroom setting, by both students and professors.
 
 # __Deployed Version Link__:
 > [(https://project-kakapo.web.app)]
