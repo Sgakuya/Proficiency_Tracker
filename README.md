@@ -4,7 +4,7 @@
 A student progress tracker for use in an Ungraded classroom setting, by both students and professors.
 
 # __Deployed Version Link__:
-> [(https://project-kakapo.web.app)]
+> [ProjectKakapo](https://project-kakapo.web.app)
 
 # __Author__
 Smith Gakuya
